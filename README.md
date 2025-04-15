@@ -1,6 +1,6 @@
-# AI Travel Planning Agent
+# AI Travel Planning Agent - Tool-Based Agent
 
-An intelligent AI agent built using the ReAct pattern that helps users plan travel by accessing destination weather, flights, and attractions.
+An intelligent Tool-Based AI agent built using the ReAct pattern that helps users plan travel by accessing destination weather, flights, and attractions.
 
 ## 🌟 Features
 - Get weather information for various destinations
